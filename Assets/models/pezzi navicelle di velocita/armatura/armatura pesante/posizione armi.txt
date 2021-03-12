@@ -1,0 +1,27 @@
+armatura 1
+arma 1 
+x:0.213
+y:-0.111
+z:0.2
+arma2
+x:-0.213
+y:-0.111
+z:0.2
+armatura2
+arma1
+x:0.248
+y:0.126
+z:0
+arma2
+x:-0.248
+y:0.126
+z:0
+armatura 3
+arma1
+x:0.313
+y:0.024
+z:0
+arma2
+x:-0.313
+y:0.024
+z:0
